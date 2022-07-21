@@ -1,8 +1,8 @@
 # Budget-App
 An interactive web App for maintaining monthly budget. <br>
-[Manage your money at one place](https://deeksha2501.github.io/Budget-App/)
+[Manage your money at one place](https://iprathamjain.github.io/Spending-Analyzer/)
 
-[![HitCount](http://hits.dwyl.com/Deeksha2501/Budget-App.svg)](http://hits.dwyl.com/Deeksha2501/Budget-App)
+
 
 ### Features of the App
 
